@@ -109,7 +109,7 @@ The following firewall policies were implemented:
 
 ## 📂 Repository Contents
 
-* 📁 **[GNS3 Topology](GNS3/topology.gns3)**
+* 📁 **[GNS3 Topology](gns3/topology.gns3)**
 * 📄 **[Project Report](report/final-report.pdf)**
 * 📊 **[Project Presentation](presentation/final-presentation.pdf)**
 * 🎥 **[Video Demonstration](media/project-demo.mp4)**
@@ -121,3 +121,4 @@ The following firewall policies were implemented:
 ## 🎓 Course Information
 
 **Project completed for Course:** `DEPI Fortinet ONL3_ISS8_S3`.
+
